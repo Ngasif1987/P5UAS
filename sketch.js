@@ -8,7 +8,7 @@ let graphAmplitude = 50;
 let graphPeriod = 300;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(800, 800);
   angleMode(DEGREES);
   describe(
     'Animated demonstration of a point moving around the unit circle, together with the corresponding sine and cosine values moving along their graphs.'
