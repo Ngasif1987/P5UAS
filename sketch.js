@@ -1,6 +1,6 @@
-let circleX = 200;
-let circleY = 150;
-let circleRadius = 75;
+let circleX = 400;
+let circleY = 250;
+let circleRadius = 85;
 
 let graphX = 50;
 let graphY = 300;
